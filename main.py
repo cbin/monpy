@@ -1,6 +1,5 @@
 from flask import Flask
 from monero.wallet import Wallet
-import math
 
 app = Flask(__name__)
 #from app import routes
